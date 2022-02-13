@@ -65,8 +65,8 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 
 1. Les diagrammes de cas d’usage pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord), pas besoin d’utiliser l’UML.
 2. Les user stories avec critère(s) d’acceptation pour chacune des fonctionnalités, partagées dans un format standard (PDF, DOCX, XLSX).
-3. Les maquettes du site avec un design simple et au moins une maquette par page (tu peux utiliser Figma ou Sketch).
-4. Un Kanban découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement. J’ai démarré le découpage dans ce kanban sur Notion, à toi de finir de compléter la colonne ”ANALYZE” sur le même modèle. Tu peux travailler sur Notion, Trello ou GitHub.
+3. Les maquettes du site avec un design simple et au moins une maquette par page (tu peux utiliser [Figma](http://figma.com/) ou [Sketch](https://www.sketch.com/)).
+4. Un Kanban découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement. J’ai démarré le découpage dans [ce kanban](https://www.notion.so/openclassrooms/Dev4U-projet-Learn-Home-972828849f7947289c23756d323a6335) sur Notion, à toi de finir de compléter la colonne ”ANALYZE” sur le même modèle. Tu peux travailler sur Notion, Trello ou GitHub.
 
 Je t’envoie un [document](mission/Notes+-+Réunion+Learn@Home.pdf) dans lequel j’ai synthétisé les attentes du client. Tu y trouveras nos prises de notes et quelques croquis. Bien sûr, il faudra fournir les maquettes pour desktop et mobile.
 
