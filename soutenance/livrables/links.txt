@@ -1,0 +1,17 @@
+diagrammes sur gh:
+drawio:	https://github.com/joskapotin/joskapotin_10_13_02_2022/blob/main/soutenance/livrable/diagrammes/useCaseDiagram.drawio
+png:		https://github.com/joskapotin/joskapotin_10_13_02_2022/blob/main/soutenance/livrable/diagrammes/useCaseDiagram.drawio.png
+
+userStories:
+visiteur:		https://github.com/joskapotin/joskapotin_10_13_02_2022/blob/main/soutenance/livrable/userStories/usersStoriesVisiteur.pdf
+utilisateur:	https://github.com/joskapotin/joskapotin_10_13_02_2022/blob/main/soutenance/livrable/userStories/usersStoriesUtilisateur.pdf
+élève:		https://github.com/joskapotin/joskapotin_10_13_02_2022/blob/main/soutenance/livrable/userStories/usersStoriesEleve.pdf
+Bénévole:		https://github.com/joskapotin/joskapotin_10_13_02_2022/blob/main/soutenance/livrable/userStories/usersStoriesBenevole.pdf
+
+maquettes:
+figma:		https://www.figma.com/file/T9boiVn6ifltK9aPwdh2II/learn%40home?node-id=3%3A96
+wireframe pdf: 	https://github.com/joskapotin/joskapotin_10_13_02_2022/blob/main/soutenance/livrable/maquettes/learn%40home-wireframe.pdf
+maquette pdf:	https://github.com/joskapotin/joskapotin_10_13_02_2022/blob/main/soutenance/livrable/maquettes/learn%40home-maquette.pdf
+
+kanban:
+notion https://www.notion.so/Dev4U-projet-Learn-Home-fc539da7ab24405abab474de73e4e184
